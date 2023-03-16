@@ -1,0 +1,5 @@
+success this line is
+this line is false
+true this line is
+
+终端运行：cargo run line ./src/test.txt
